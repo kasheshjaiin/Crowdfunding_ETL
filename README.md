@@ -40,4 +40,4 @@ In this project, we performed the following tasks:
 ## Contributors
 
 - [Kashish Jain](https://github.com/kasheshjaiin)
-- [Partner's Name](https://github.com/partnerusername)
+- [Sneha Kumari](https://github.com/Snehak8)
