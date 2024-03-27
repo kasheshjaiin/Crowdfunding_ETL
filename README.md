@@ -16,7 +16,7 @@ In this project, we performed the following tasks:
 
 ## Repository Structure
 
-- `ETL_Mini_Project.ipynb`: Jupyter Notebook containing the Python code for extracting, transforming, and loading the data.
+- `ETL_Mini_Project_KJain_SKumari.ipynb`: Jupyter Notebook containing the Python code for extracting, transforming, and loading the data.
 - `Resources/`: Directory containing the Excel files (`crowdfunding.xlsx` and `contacts.xlsx`) used in the project.
 - `crowdfunding_db_schema.sql`: SQL file containing the database schema for creating tables in PostgreSQL.
 - `category.csv`, `subcategory.csv`, `campaign.csv`, `contacts.csv`: CSV files containing the transformed data for each table.
